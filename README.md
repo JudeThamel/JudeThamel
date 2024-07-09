@@ -106,6 +106,9 @@
 <a href="https://www.instagram.com/_jude.thamel_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram JudeThamel" height="50" width="50" /></a>
 </p>
 
-
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+    <p>Loading</p>
+</div>
 
 
