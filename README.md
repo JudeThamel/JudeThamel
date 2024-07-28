@@ -18,12 +18,6 @@
   
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <br>
 
 <p><img align="right" src="https://github.com/JudeThamel/JudeThamel/blob/main/animation_500_kxa883sd.gif" alt="JudeThamel" /></p>
