@@ -93,7 +93,7 @@
 <!--icons and links-->
 
 <p align="center">  
-<a href="https://www.linkedin.com/in/jude-thamel-3a0735266" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn JudeThamel" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/jude-thamel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn JudeThamel" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/jude_82096" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord JudeThamel" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@LEARNWITHJT" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Youtube JudeThamel" height="50" width="50" /></a>
 <a href="https://www.facebook.com/jude.malshan.733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook JudeThamel" height="50" width="50" /></a>
