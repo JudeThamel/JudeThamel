@@ -108,8 +108,6 @@
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 <div align=center>
     <p>© 2025 [JudeThamel](https://github.com/JudeThamel). This content may not be copied, modified, or redistributed without permission.</p>
 </div>
