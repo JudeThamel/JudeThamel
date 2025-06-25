@@ -12,30 +12,22 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding" />
-
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=JudeThamel&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<p><img align="right" src="https://github.com/JudeThamel/JudeThamel/blob/main/animation_500_kxa883sd.gif" alt="JudeThamel" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line Gradient" />
 
 <br>
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
-<!--h2 without bottom border-->
+<br>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
 
 <p><img align="right" src="https://github.com/JudeThamel/JudeThamel/blob/main/animation.gif" alt="adam-pw" /></p>
 
-<br>
-<br>
 <br>
 
 <!--Intro start-->
@@ -50,10 +42,9 @@
 - ⚡ Fun fact **I Always try to learn something new and then sleep till it store in the brain 😎**
 <!--Intro end-->
 
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
+    
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
@@ -73,6 +64,7 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
 </p>        
 <!--- stats (end) -->
 
@@ -99,7 +91,6 @@
 </div>
 
 <!--icons and links-->
-
 <p align="center">  
 <a href="https://www.linkedin.com/in/jude-thamel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn JudeThamel" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/jude_82096" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord JudeThamel" height="50" width="50" /></a>
