@@ -32,6 +32,8 @@
 <p><img align="right" src="https://github.com/JudeThamel/JudeThamel/blob/main/animation.gif" alt="adam-pw" /></p>
 
 <br>
+<br>
+<br>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Java, Javascript, HTML, CSS, PHP**
