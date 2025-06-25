@@ -59,14 +59,7 @@
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JudeThamel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-### Donut Chart Language Card Layout
 
-You can use the `&layout=donut` option to change the card design.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-```
-  
   </td>
 </tr>
 </table>
@@ -74,6 +67,14 @@ You can use the `&layout=donut` option to change the card design.
 </p>        
 <!--- stats (end) -->
 
+### Donut Chart Language Card Layout
+
+You can use the `&layout=donut` option to change the card design.
+
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeThamel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+```
+  
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
