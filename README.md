@@ -16,17 +16,13 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=JudeThamel&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Jude Thamel Profile Views" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="right" src="https://github.com/JudeThamel/JudeThamel/blob/main/animation.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/JudeThamel/JudeThamel/blob/main/animation.gif" alt="Coding" /></p>
 
 <br>
 
@@ -57,7 +53,10 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JudeThamel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
 
 
   </td>
