@@ -28,6 +28,11 @@
 <!--h2 without bottom border-->
 
 
+<br>
+
+<p><img align="right" src="https://github.com/JudeThamel/JudeThamel/blob/main/animation.gif" alt="adam-pw" /></p>
+
+<br>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Java, Javascript, HTML, CSS, PHP**
