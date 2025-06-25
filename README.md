@@ -94,7 +94,7 @@
 <p align="center">  
 <a href="https://www.linkedin.com/in/jude-thamel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn JudeThamel" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/jude_82096" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord JudeThamel" height="50" width="50" /></a>
-<a href="https://www.youtube.com/@TechJuda" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Youtube JudeThamel" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@TechJuda" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" alt="Youtube JudeThamel" height="50" width="50" /></a>
 <a href="https://www.facebook.com/jude.malshan.733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook JudeThamel" height="50" width="50" /></a>
 <a href="https://www.instagram.com/_jude.thamel_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram JudeThamel" height="50" width="50" /></a>
 </p>
