@@ -67,11 +67,6 @@
 </p>        
 <!--- stats (end) -->
 
-### Donut Chart Language Card Layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeThamel\&layout=donut-vertical)](https://github.com/JudeThamel/github-readme-stats)
-  
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
