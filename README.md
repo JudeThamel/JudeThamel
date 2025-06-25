@@ -69,11 +69,7 @@
 
 ### Donut Chart Language Card Layout
 
-You can use the `&layout=donut` option to change the card design.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeThamel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeThamel\&layout=donut-vertical)](https://github.com/JudeThamel/github-readme-stats)
   
 
 <!--h1 without bottom border-->
