@@ -108,6 +108,7 @@
 
 ## License
 
-<div align=center>
-    <p>© 2025 [JudeThamel](https://github.com/JudeThamel). This content may not be copied, modified, or redistributed without permission.</p>
-</div>
+This project is licensed under the custom **Charithma License v1.0**.  
+Only personal and educational use is allowed. Commercial or modified use is strictly prohibited without written permission.
+
+See LICENSE file for full terms.
