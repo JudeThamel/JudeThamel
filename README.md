@@ -22,8 +22,7 @@
 <p><img align="right" src="https://github.com/JudeThamel/JudeThamel/blob/main/animation_500_kxa883sd.gif" alt="JudeThamel" /></p>
 
 <br>
-<br>
-<br>
+
 
 <!--h2 without bottom border-->
 
