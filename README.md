@@ -106,7 +106,7 @@
 
 ## License
 
-This project is licensed under the custom **Jude Thamel License v1.0**.  
+This project is licensed under **JudeThamel License v1.0**.  
 Only personal and educational use is allowed. Commercial or modified use is strictly prohibited without written permission.
 
 [View Full License](./LICENSE)
