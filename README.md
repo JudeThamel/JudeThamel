@@ -3,7 +3,7 @@
 </div>
 
 <div id="user-content-toc">
-  <du align="center">
+  <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jude Thamel </h1></summary>
   </ul>
   <div align=center>
