@@ -82,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,javaee,bootstrap,tailwind,git,github,figma,arduino,nodejs,vscode,nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,bootstrap,tailwind,git,github,figma,arduino,nodejs,vscode,nextjs&perline=14" />
   </a>
 </p>
 
