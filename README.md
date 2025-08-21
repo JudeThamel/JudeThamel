@@ -49,12 +49,6 @@
   <!-- Personal Stats -->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JudeThamel&theme=transparent&show_icons=true&count_private=true" />
 
-  <!-- NetBeans-Projects Organization Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NetBeans-Projects&theme=transparent&show_icons=true" />
-
-  <!-- Life-Systems-PVT-LTD Organization Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Life-Systems-PVT-LTD&theme=transparent&show_icons=true" />
-
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JudeThamel&theme=transparent&hide_border=false" /> 
 </td>
