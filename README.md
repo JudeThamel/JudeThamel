@@ -1,4 +1,4 @@
-<div align=center>
+,/.m   m=<div align=center>
     <img src="https://github.com/JudeThamel/JudeThamel/blob/main/coding-cat-animation.gif" alt="Coding Cat" height="100">
 </div>
 
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Life-Systems-PVT-LTD&theme=transparent&show_icons=true" />
 
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JudeThamel&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JudeThamel&theme=transparent&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
