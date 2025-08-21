@@ -3,7 +3,7 @@
 </div>
 
 <div id="user-content-toc">
-  <ul align="center">
+  <du align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jude Thamel </h1></summary>
   </ul>
   <div align=center>
@@ -46,7 +46,15 @@
 <tr border="none">
 <td width="50%" align="center">
   
+  <!-- Personal Stats -->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JudeThamel&theme=dark&show_icons=true&count_private=true" />
+
+  <!-- NetBeans Projects Organization Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NetBeans Projects&theme=dark&show_icons=true" />
+
+  <!-- Life Systems Organization Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Life Systems&theme=dark&show_icons=true" />
+
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JudeThamel&theme=dark&hide_border=false" /> 
 </td>
@@ -65,7 +73,7 @@
 <!--- stats (end) -->
 
 </p>        
-<!--- stats (end) -->
+<!--- stats & Trophy (end) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
