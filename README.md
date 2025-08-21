@@ -1,4 +1,4 @@
-,/.m   m=<div align=center>
+<div align=center>
     <img src="https://github.com/JudeThamel/JudeThamel/blob/main/coding-cat-animation.gif" alt="Coding Cat" height="100">
 </div>
 
@@ -47,12 +47,12 @@
 <tr border="none">
     
 <td width="50%" align="center">
-  <br/>
+  <br><br/>
   <!-- Personal Stats -->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JudeThamel&theme=transparent&show_icons=true&count_private=true" />
-  <br/>
+  <br><br/>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JudeThamel&theme=transparent&hide_border=false" />
-  <br/>
+  <br><br/>
 </td>
 
 <td width="50%" align="center">
