@@ -12,7 +12,7 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line Gradient" />
+<img src="https://github.com/JudeThamel/JudeThamel/blob/main/horizontal-line-gradient.gif" alt="Horizontal Line Gradient" />
 
 <br>
 
